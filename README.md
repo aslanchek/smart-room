@@ -16,6 +16,18 @@
 
 <img src="https://github.com/user-attachments/assets/ba6e4340-fb8c-4bff-9241-6bc18b2aa785" width=40% height=40%>
 
+### Дизайн прототипа
+
+<img src="https://github.com/user-attachments/assets/e878a04f-72cb-4de0-a594-989e432116e4" width=40% height=40%>
+
+Компоненты:
+
+Датчик газа CO2 MQ-135
+Датчик температуры и влажности DHT22 AM2302
+Микроконтроллер с Wi-Fi NodeMcu V2 ESP8266 
+Аккумулятор с многоразовой сигареты Waka вместе с заряжающим модулем
+DC-DC step-up преобразователь MT3608
+
 Далее показатели датчиков были выведены на небольшой oled экран: 
 
 <img src="https://github.com/user-attachments/assets/88cd4bee-3df1-4443-b5ee-f10b2507df27" width=40% height=40%>
