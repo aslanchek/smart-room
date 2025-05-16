@@ -36,6 +36,9 @@
 
 <img src="https://github.com/user-attachments/assets/3ff58d96-dbdc-40c6-9efe-1a9b09d4fa0a" width=40% height=40%>
 
+<br>
+<img src="https://github.com/user-attachments/assets/08f49137-ba89-43dc-b558-4b9c59524550" width=40% height=40%>
+
 ### Результат и демонстрация работы
 
 Готовое изделие в сборке:
